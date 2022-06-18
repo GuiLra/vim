@@ -30,6 +30,14 @@
 
 All instructions can be found at [INSTALL.md](./INSTALL.md).
 
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/GuiLra/tilix-omni/graphs/contributors).
+
+| [![João Pedro](https://github.com/GuiLra.png?size=100)](https://github.com/GuiLra) |
+| ------------------------------------------------------------------------------------------------ |
+| [Guilherme Leandro](https://github.com/GuiLra)                                                   |
+
 ## License
 
 [MIT License](./LICENSE.md)
