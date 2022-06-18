@@ -13,7 +13,7 @@ cd ~/.vim/pack/themes/start
 3. Clone the repository using the "omni" name:
 
 ```
-git clone https://github.com/GuiLra/vim-omni omni
+git clone https://github.com/GuiLra/vim omni
 ```
 
 4. Create configuration file (in case you don't have yet):
